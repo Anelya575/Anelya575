@@ -1,6 +1,6 @@
 ## Hi, I'm Anelya 👋
 
-Fourth-year Data Science student at Simon Fraser University.
+Third-year Data Science student at Simon Fraser University.
 
 I like questions that sound simple until you try to answer them with data. So I collect the evidence, clean the mess, test the assumptions, build the model when it makes sense — and try to turn the result into something people can actually understand.
 
